@@ -1,2 +1,2 @@
-# Django_Curso
+# Curso de Django 
 Curso de Django da Treinaweb
